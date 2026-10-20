@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+publish/
+*.zip
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+
+# Secrets and local runtime files
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+.env
+filerisk_state.json
